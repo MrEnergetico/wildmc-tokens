@@ -1,0 +1,7 @@
+// Account Google
+gmail : ||wildmc2407@gmail.com||
+psw : ||WildMc111%||
+
+//Mongoloide
+psw : WildMc111% 
+connessione ( domain ) : ||mongodb+srv://wildmc2407:Akugi8eWcxcAwb9k@wildmc.uaymdj4.mongodb.net/||
